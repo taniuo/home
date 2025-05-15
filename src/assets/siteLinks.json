@@ -7,22 +7,22 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.huang1111.cn/"
+    "link": "https://pan.astpan.com/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "目录",
+    "link": "https://open.kesug.com/dir/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://taz.zeabur.app/"
+    "name": "指南针",
+    "link": "https://vlink.cc/taniuo/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://tap.zeabur.app/"
+    "name": "笔记",
+    "link": "https://tanext.netlify.app/"
   },
   {
     "icon": "Fire",
